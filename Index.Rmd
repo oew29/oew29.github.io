@@ -19,7 +19,7 @@ Thanks for visiting my personal website!
 
 **About Me**
 
-My name is Olivia Wagner, and I am a first year graduate student in the Department of Biostatistics at Columbia University. I was born on September 9th, 1997 and grew up in Detroit, Michigan. In May of 2019 I graduated with a Bachelors of Statistics from the University of Michigan. I currently work part time as a consulting Data Scientist at the big data analytics firm. 
+My name is Olivia Wagner, and I am a first year graduate student in the Department of Biostatistics at Columbia University. I was born on September 9th, 1997 and grew up in Detroit, Michigan. In May of 2019 I graduated with a Bachelors of Statistics from the University of Michigan. I currently work part time as a consulting Data Scientist at a data analytics firm. 
 
 If you are interested in knowing more about my research please refer to my Academic CV page, or contact me via email.
 
