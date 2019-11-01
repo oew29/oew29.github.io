@@ -1,0 +1,16 @@
+name: "Yay internet!"
+output_dir: "."
+navbar:
+  title: "Home"
+  left:
+    - text: "About"
+      href: about.html
+    - text: "Academic CV"
+      href: cv.html
+    - icon: fa-envelope fa-lg
+      href: mailto:<oew2106@cumc.columbia.edu>
+    - icon: fa-github fa-lg
+      href: http://github.com/oew29/
+output:
+  html_document:
+    theme: cyborg

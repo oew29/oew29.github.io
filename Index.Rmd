@@ -1,0 +1,33 @@
+---
+title: "Website Data"
+author: "Olivia Wagner"
+date: "10/26/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+library(tidyverse)
+```
+
+## Home ##
+
+Hey! Hey, you! 
+
+Thanks for visiting my personal website!
+
+![](http://giphygifs.s3.amazonaws.com/media/bznNJlqAi4pBC/giphy.gif)
+
+**About Me**
+
+My name is Olivia Wagner, and I am a first year graduate student in the Department of Biostatistics at Columbia University. I was born on September 9th, 1997 and grew up in Detroit, Michigan. In May of 2019 I graduated with a Bachelors of Statistics from the University of Michigan. I currently work part time as a consulting Data Scientist at the big data analytics firm. 
+
+If you are interested in knowing more about my research please refer to my Academic CV page, or contact me via email.
+
+
+![](https://media.giphy.com/media/KctrWMQ7u9D2du0YmD/giphy.gif)
+
+
+
+
+
+

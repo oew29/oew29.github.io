@@ -1,0 +1,102 @@
+---
+title: "cv"
+author: "Olivia Wagner"
+date: "10/31/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+library(tidyverse)
+```
+
+## Academic CV ##
+
+EDUCATION
+
+University of Michigan, Ann Arbor, MI 				    	                            May 2019 
+Bachelor of Science, Statistics
+
+Columbia University, New York, NY					                                  Expected May 2021
+Master of Science, Biostatistics
+
+RESEARCH
+	
+University of Michigan, Survey of Consumers					                              2018
+Research Assistant for Dr. Z. Tuba Suzer-Gurtekin
+
+
+•	Assisted in prediction of economic trends from 
+survey data using SAS programming
+
+•	Conducted research on the effect of political 
+discourse and its relation to consumer sentiment and
+economic trends
+
+•	Utilized R programming to extract data from social
+media sites
+
+
+University of Michigan, Department of Anthropology					                       2018
+Research Assistant for Dr. Andrew J. Marshall
+
+
+•	Facilitated research regarding the dietary overlap 
+of species found in the Bornean rainforest 
+
+•	Conducted analysis in R programming to clean and process
+data to determine diet overlap between individual species
+
+•	Determined association between dietary overlap of 
+species with phylogenetic distance and divergence time
+
+•	Identified differences in diet overlap associated with
+periods of varying food availability
+
+
+
+Big Data Summer Institute, University of Michigan					                         2017
+Researcher, Institute Participant
+Principal Investigators: Dr. Hyun Min Kang and
+Dr. Goncalo Abecasis
+
+
+•	Worked on an analysis of phenome-wide association summary
+
+•	Performed a meta-analysis of Type II Diabetes phenotype on 
+approximately 183,000 observations from the HUNT databank and
+Michigan Genomics Initiative data set in total
+
+•	Tested for significance of gene mutations in relation to 
+incidence of Type II Diabetes
+
+•	Learned concepts such as Machine Learning, Network Models, 
+and Bayesian Analysis through lecture series
+
+
+PROGRAMMING EXPERIENCE
+
+	C++, Python, R, SAS, SPSS, Stata, WinBUGS
+
+
+PRESENTATIONS
+	
+A. DeJesus-Soto, C. Rodriguez, O. Wagner “Integrative Analysis of Phenome-wide Association Summary Statistics” Poster Presentation at University of Michigan’s Big Data Symposium, July 13, 2017
+
+
+AWARDS & HONORS
+
+American Association of University Women Scholarship Recipient                     2015  
+
+University Honors Student                                                       2015 | 2016     
+
+Scholar Athlete Award							                                          2016 | 2017 | 2018
+
+Academic All–Big Ten Award					                                               2018
+
+
+
+OFF - CAMPUS INVOLVEMENT
+	
+Student Athlete, Michigan Women’s Rowing 				                            2016 | 2017 | 2018
+
+Member, Michigan Undergraduate Students of Statistics                       2016 | 2017 | 2018
