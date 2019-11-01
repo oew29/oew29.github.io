@@ -1,7 +1,4 @@
 ---
-title: "cv"
-author: "Olivia Wagner"
-date: "10/31/2019"
 output: html_document
 ---
 
@@ -11,7 +8,7 @@ library(tidyverse)
 
 ## Academic CV ##
 
-EDUCATION
+**EDUCATION**
 
 University of Michigan, Ann Arbor, MI 				    	                            May 2019 
 Bachelor of Science, Statistics
@@ -19,10 +16,13 @@ Bachelor of Science, Statistics
 Columbia University, New York, NY					                                  Expected May 2021
 Master of Science, Biostatistics
 
-RESEARCH
+***
+
+**RESEARCH**
 	
-University of Michigan, Survey of Consumers					                              2018
-Research Assistant for Dr. Z. Tuba Suzer-Gurtekin
+> University of Michigan, Survey of Consumers				     
+Research Assistant for Dr. Z. Tuba Suzer-Gurtekin 
+2018
 
 
 •	Assisted in prediction of economic trends from 
@@ -36,8 +36,9 @@ economic trends
 media sites
 
 
-University of Michigan, Department of Anthropology					                       2018
-Research Assistant for Dr. Andrew J. Marshall
+> University of Michigan, Department of Anthropology		 
+Research Assistant for Dr. Andrew J. Marshall 
+2018
 
 
 •	Facilitated research regarding the dietary overlap 
@@ -54,10 +55,9 @@ periods of varying food availability
 
 
 
-Big Data Summer Institute, University of Michigan					                         2017
+>Big Data Summer Institute, University of Michigan			 
 Researcher, Institute Participant
-Principal Investigators: Dr. Hyun Min Kang and
-Dr. Goncalo Abecasis
+Principal Investigators: Dr. Hyun Min Kang and Dr. Goncalo Abecasis 2017
 
 
 •	Worked on an analysis of phenome-wide association summary
@@ -72,18 +72,24 @@ incidence of Type II Diabetes
 •	Learned concepts such as Machine Learning, Network Models, 
 and Bayesian Analysis through lecture series
 
+***
 
-PROGRAMMING EXPERIENCE
+**PROGRAMMING EXPERIENCE**
 
 	C++, Python, R, SAS, SPSS, Stata, WinBUGS
 
 
-PRESENTATIONS
+***
+
+**PRESENTATIONS**
 	
 A. DeJesus-Soto, C. Rodriguez, O. Wagner “Integrative Analysis of Phenome-wide Association Summary Statistics” Poster Presentation at University of Michigan’s Big Data Symposium, July 13, 2017
 
 
-AWARDS & HONORS
+***
+
+
+**AWARDS & HONORS**
 
 American Association of University Women Scholarship Recipient                     2015  
 
@@ -94,8 +100,10 @@ Scholar Athlete Award							                                          2016 | 201
 Academic All–Big Ten Award					                                               2018
 
 
+***
 
-OFF - CAMPUS INVOLVEMENT
+
+**OFF - CAMPUS INVOLVEMENT**
 	
 Student Athlete, Michigan Women’s Rowing 				                            2016 | 2017 | 2018
 

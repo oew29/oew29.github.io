@@ -1,7 +1,4 @@
 ---
-title: "Website Data"
-author: "Olivia Wagner"
-date: "10/26/2019"
 output: html_document
 ---
 

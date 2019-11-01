@@ -1,0 +1,45 @@
+---
+output: html_document
+---
+```{r setup, include=FALSE}
+library(tidyverse)
+library(p8105.datasets)
+library(viridis)
+library(plotly)
+```
+
+## Plot.ly Plots##
+```{r}
+data('nyc_airbnb')
+```
+
+```{r, boxplot}
+nyc_airbnb_boxplot = nyc_airbnb %>% 
+  filter(price <= 1000) %>%
+  group_by(room_type)
+
+plot_ly(data = nyc_airbnb_boxplot, y = ~ price, color = ~ room_type, type = 'box', colors = 'Set2') 
+  
+  
+```
+
+```{r scatterplot}
+
+nyc_airbnb_scatterplot = nyc_airbnb %>%
+  filter(price <= 1000) %>%
+  filter(reviews_per_month <= 20)
+
+plot_ly(data = nyc_airbnb_scatterplot, x = ~ reviews_per_month, y =  ~ price, type = 'scatter', mode = 'markers', color = ~price, alpha = 0.5)
+  
+
+```
+
+```{r barplot}
+nyc_airbnb_barplot = nyc_airbnb %>% 
+  count(availability_365) %>%
+  filter(200 < availability_365, availability_365 < 300)
+
+plot_ly(data = nyc_airbnb_barplot, x = ~ availability_365, y =  ~ n, color = ~availability_365  , type = 'bar') 
+
+```
+
