@@ -10,11 +10,11 @@ library(tidyverse)
 
 **EDUCATION**
 
-University of Michigan, Ann Arbor, MI 				    	                            May 2019 
-Bachelor of Science, Statistics
+University of Michigan, Ann Arbor, MI 				    	                             
+Bachelor of Science, Statistics                                                 May 2019
 
-Columbia University, New York, NY					                                  Expected May 2021
-Master of Science, Biostatistics
+Columbia University, New York, NY					                                  
+Master of Science, Biostatistics                                            Expected May 2021
 
 ***
 

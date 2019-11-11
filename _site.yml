@@ -6,7 +6,7 @@ navbar:
     - text: "Academic CV"
       href: cv.html
     - text: "Plotly"
-      href: Plotly.html
+      href: plotly.html
     - icon: fa-envelope fa-lg
       href: mailto:<oew2106@cumc.columbia.edu>
     - icon: fa-github fa-lg
